@@ -13,7 +13,6 @@ import './directives';
 // 过滤器
 import './filters';
 
-
 Vue.config.productionTip = false
 
 new Vue({
